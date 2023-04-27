@@ -254,7 +254,7 @@ export function JFAHeader() {
         onClose={closeDrawer}
         size="100%"
         padding="md"
-        title="Navigation"
+        title="JFA - Japan Football Association"
         className={classes.hiddenDesktop}
         zIndex={1000000}>
         <ScrollArea h={`calc(100vh - ${rem(60)})`} mx="-md">
@@ -269,18 +269,17 @@ export function JFAHeader() {
           <UnstyledButton className={classes.link} onClick={toggleLinks}>
             <Center inline>
               <Box component="span" mr={5}>
-                Features
+                What We Are About
               </Box>
               <IconChevronDown size={16} color={theme.fn.primaryColor()} />
             </Center>
           </UnstyledButton>
           <Collapse in={linksOpened}>{links}</Collapse>
-          <a href="#" className={classes.link}>
-            Learn
-          </a>
-          <a href="#" className={classes.link}>
-            Academy
-          </a>
+          <Link
+            to="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            style={{ textDecoration: "none" }}>
+            <Anchor className={classes.link}>Project Blue Lock</Anchor>
+          </Link>
 
           <Divider
             my="sm"

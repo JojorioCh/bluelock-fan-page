@@ -120,7 +120,7 @@ export function SearchBar() {
             value={value}
             data={data}
             onChange={handleChange}
-            rightSection={loading ? <Loader size="1rem" /> : null}
+            rightSection={loading ? <Loader size="1.5rem" /> : null}
             placeholder="Please Enter a Name"
             style={{ width: "20rem", fontSize: "3rem", marginRight: 0 }}
           />
