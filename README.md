@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/JojorioCh/L5-Mission0">
-    <img src="src/components/images/JFALogo2.png" alt="Logo" width="180" height="80">
+    <img src="src/components/images/JFALogo2.png" alt="Logo" width="200" height="80">
   </a>
 <h3 align="center">Project Blue Lock example Website</h3>
 <details>
@@ -22,13 +22,14 @@
 
 ## About the Project
 
-[![Project Blue Lock SS][bluelock-screenshot]](http://localhost:3000/)
+[![Project Blue Lock SS][bluelock-screenshot]](https://github.com/JojorioCh/L5-Mission0/blob/master/src/components/images/bluelockss.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 - [![React][React.js]][React-url]
+- [Mantine UI](https://mantine.dev)
 
 ## Getting Started
 
@@ -49,4 +50,16 @@ Joseph Chang - [Joseph Chang](https://www.linkedin.com/in/joseph-chang-b25977144
 
 Project Link: [https://github.com/JojorioCh/L5-Mission0.git](https://github.com/JojorioCh/L5-Mission0.git)
 
+## Acknowledgments
+
+- [Mantine](https://mantine.dev/) Helped me a lot in creating this website.
+
+- Would also like to Thank Hans Coalie the UX Designer who helped with giving feedback for this project.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
