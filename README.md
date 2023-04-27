@@ -1,13 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/JojorioCh/L5-Mission0">
+    <img src="src/components/images/JFALogo2.png" alt="Logo" width="180" height="80">
   </a>
 <h3 align="center">Project Blue Lock example Website</h3>
 <details>
@@ -21,10 +14,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -39,7 +28,7 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
+- [![React][React.js]][React-url]
 
 ## Getting Started
 
