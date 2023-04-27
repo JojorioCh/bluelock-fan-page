@@ -37,8 +37,8 @@ Although my whole dream isn't completed yet, this has the begginnings of what ca
 
 ### Built With
 
-- [![React][React.js]][React-url] - To create the framewire for the Website
-- [Mantine UI](https://mantine.dev) - To create the different components required.
+- [![React][React.js]][React-url] 
+- [Mantine UI](https://mantine.dev) 
 
 <br />
 
