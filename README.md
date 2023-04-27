@@ -1,8 +1,11 @@
+<a name="readme-top"></a>
+
 <div align="center">
   <a href="https://github.com/JojorioCh/L5-Mission0">
-    <img src="src/components/images/JFALogo2.png" alt="Logo" width="380" height="100">
+    <img src="src/components/images/JFALogo2.png" alt="Logo" width="400" height="100">
   </a>
 <h3 align="center">Project Blue Lock example Website</h3>
+</div>
 <details>
 <summary>T.O.C</summary>
 <ol>
@@ -43,9 +46,7 @@
    ```sh
    npm install
    ```
-   ```sh
 3. Have fun ヾ(⌐■_■)ノ♪
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
