@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/JojorioCh/L5-Mission0">
-    <img src="src/components/images/JFALogo2.png" alt="Logo" width="200" height="80">
+    <img src="src/components/images/JFALogo2.png" alt="Logo" width="380" height="100">
   </a>
 <h3 align="center">Project Blue Lock example Website</h3>
 <details>
@@ -22,7 +22,7 @@
 
 ## About the Project
 
-[![Project Blue Lock SS][bluelock-screenshot]](https://github.com/JojorioCh/L5-Mission0/blob/master/src/components/images/bluelockss.png)
+<img src="/src/components/images/bluelockss.png" alt="Logo">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -30,6 +30,8 @@
 
 - [![React][React.js]][React-url]
 - [Mantine UI](https://mantine.dev)
+
+<br />
 
 ## Getting Started
 
@@ -44,15 +46,21 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<br/>
+
 ## Contact
 
 Joseph Chang - [Joseph Chang](https://www.linkedin.com/in/joseph-chang-b25977144/) - joesfound@gmail.com
 
 Project Link: [https://github.com/JojorioCh/L5-Mission0.git](https://github.com/JojorioCh/L5-Mission0.git)
 
+<br />
+
 ## Acknowledgments
 
 - [Mantine](https://mantine.dev/) Helped me a lot in creating this website.
+
+- [W3School](https://www.w3schools.com/) A great resource when you have trouble remembering some coding.
 
 - Would also like to Thank Hans Coalie the UX Designer who helped with giving feedback for this project.
 
