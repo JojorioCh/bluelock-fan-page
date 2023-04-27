@@ -27,6 +27,12 @@
 
 <img src="/src/components/images/bluelockss.png" alt="Logo">
 
+This Website was built as part of a class Mission Project with a focus of using a Listing Website Wireframe. 
+
+I created this by referencing an Anime that I have enjoyed that has to do with sports named Blue Lock. What I was aiming to do was create a database for the fictional characters that were chosen to participate in the project.
+
+Although my whole dream isn't completed yet, this has the begginnings of what can be done for the site. 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
