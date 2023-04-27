@@ -28,8 +28,8 @@
 
 ### Built With
 
-- [![React][React.js]][React-url]
-- [Mantine UI](https://mantine.dev)
+- [![React][React.js]][React-url] - To create the framewire for the Website
+- [Mantine UI](https://mantine.dev) - To create the different components required.
 
 <br />
 
@@ -37,11 +37,14 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/JojorioCh/L5-Mission0.git
    ```
 2. Install NPM packages
    ```sh
    npm install
+   ```
+   ```sh
+3. Have fun ヾ(⌐■_■)ノ♪
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
